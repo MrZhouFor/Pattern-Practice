@@ -5,7 +5,8 @@
 
 ## primary acticles
 
-* [Object Create](primary-acticles/untitled.md)
+* [创建对象](primary-acticles/untitled.md)
+* [简单对象](primary-acticles/jian-dan-dui-xiang.md)
 
 ## advanced Acticles
 
