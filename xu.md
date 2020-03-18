@@ -19,5 +19,7 @@
 * thinking as a hobby
 * 思想比技巧更重要
 
+我们在日常开发中，
+
 
 
