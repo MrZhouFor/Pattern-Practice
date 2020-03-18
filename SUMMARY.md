@@ -5,11 +5,12 @@
 
 ## primary acticles - 初级篇 <a id="primary-acticles"></a>
 
-* [Untitled](primary-acticles/untitled-1.md)
-* [如何创建对象](primary-acticles/untitled.md)
-* [如何构建复杂对象](primary-acticles/jian-dan-dui-xiang.md)
-* [如何创建单例对象](primary-acticles/ru-he-chuang-jian-dan-li-dui-xiang.md)
-* [尽量不要使用继承](primary-acticles/jin-liang-bu-yao-shi-yong-ji-cheng.md)
+* [基本的原则](primary-acticles/untitled-1/README.md)
+  * [Untitled](primary-acticles/untitled-1/untitled.md)
+  * [尽量不要使用继承](primary-acticles/untitled-1/jin-liang-bu-yao-shi-yong-ji-cheng.md)
+* [如何创建对象](primary-acticles/untitled/README.md)
+  * [如何创建单例对象](primary-acticles/untitled/ru-he-chuang-jian-dan-li-dui-xiang.md)
+  * [如何构建复杂对象](primary-acticles/untitled/jian-dan-dui-xiang.md)
 
 ## advanced Acticles - 进阶篇 <a id="advanced-acticles"></a>
 
